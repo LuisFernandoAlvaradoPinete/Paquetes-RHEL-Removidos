@@ -26,3 +26,11 @@ setroubleshoot.x86_64 0:3.2.30-3.el7
 system-config-printer.x86_64 0:1.4.1-21.el7
 orca.x86_64 0:3.6.3-4.el7
 java-1.8.0-openjdk-headless.x86_64 1:1.8.0.181-7.b13.el7
+dvd+rw-tools
+firewalld
+totem
+baobab
+gnome-terminal-nautilus
+file-roller
+vinagre
+gnome-terminal-nautilus
